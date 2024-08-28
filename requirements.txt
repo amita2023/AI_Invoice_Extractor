@@ -1,6 +1,6 @@
-streamlit
-google-generativeai
-python-dotenv
-langchain
-PyPDF2
-chromadb
+streamlit==1.26.0
+google-generativeai==0.7.2  # Replace with the correct version if different
+python-dotenv==1.0.0
+langchain==0.0.250  # Replace with the correct version if different
+PyPDF2==3.0.1
+chromadb==0.4.6 
