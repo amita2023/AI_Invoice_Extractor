@@ -1,7 +1,7 @@
-## MultiLanguage Invoice Extractor
+# MultiLanguage Invoice Extractor
 MultiLanguage Invoice Extractor is a powerful and user-friendly Streamlit application designed to extract and interpret information from invoices in multiple languages. Leveraging the capabilities of a large language model (LLM) and advanced image processing techniques, this tool allows users to easily upload invoices, query their contents, and receive detailed, insightful responses.
 
-# Features
+## Features
 
 1. Upload Invoice Images
 - Supported Formats: Users can upload invoice images in commonly used formats such as JPG, JPEG, and PNG.
@@ -13,22 +13,22 @@ MultiLanguage Invoice Extractor is a powerful and user-friendly Streamlit applic
 - Detail Extraction: The LLM analyzes the invoice content, extracting key details such as amounts, dates, vendor information, and more.
 - Language Flexibility: The tool supports multiple languages, depending on the capabilities of the chosen LLM, making it ideal for businesses operating in multilingual environments.
 
-# Getting Started
+## Getting Started
 
 To start using the MultiLanguage Invoice Extractor, follow these simple steps:
 
 1. Clone the Repository:
 
-git clone https://github.com/amita2023/AI_Invoice_Extractor.git
+- git clone https://github.com/amita2023/AI_Invoice_Extractor.git
 
 2. Install Dependencies: Navigate to the project directory and install the required Python packages:
 
-cd MultiLanguage-Invoice-Extractor
-pip install -r requirements.txt
+- cd MultiLanguage-Invoice-Extractor
+- pip install -r requirements.txt
 
 3. Run the Streamlit Application: Start the Streamlit server by running:
 
-streamlit run app.py
+- streamlit run app.py
 
 4. Upload Invoices and Query:
 
@@ -36,7 +36,7 @@ streamlit run app.py
 - Type your questions in the text box, and the application will analyze the invoice and generate detailed responses.
 
 
-# Usage
+## Usage
 
 Once the app is running, simply upload an invoice image, type your question in natural language, and the app will provide detailed information extracted from the invoice. Whether you're working with invoices in English, Spanish, French, or any other supported language, this tool will help you quickly and accurately gather the information you need.
 
