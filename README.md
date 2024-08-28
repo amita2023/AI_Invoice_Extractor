@@ -30,8 +30,8 @@ streamlit run app.py
 
 4. Upload Invoices and Query:
 
-# Upload an invoice image through the provided interface.
-# Type your questions in the text box, and the application will analyze the invoice and generate detailed responses.
+- Upload an invoice image through the provided interface.
+- Type your questions in the text box, and the application will analyze the invoice and generate detailed responses.
 
 
 Usage
